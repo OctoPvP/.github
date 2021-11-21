@@ -1,7 +1,7 @@
 # Hi there 👋! We're OctoPvP
 
 ## Who are we?
-We develop minecraft server software in Java.
+We develop minecraft server software in Java. <br>
 Founded on Feburary 2, 2021 we've been working nonstop to bring our dreams into reality!
 
 ## Our Team
