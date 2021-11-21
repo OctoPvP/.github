@@ -8,3 +8,10 @@ Founded on Feburary 2, 2021 we've been working nonstop to bring our dreams into 
  - [Badbird-5907](https://github.com/Badbird-5907) - Founder, Owner, Lead Developer
  - [archer18sm](https://twitter.com/archer18sm) - Founder, Owner
  - [Zenith-jpg](https://github.com/Zenith-jpg) - Developer
+
+## Our current projects
+ - [OctoCord](https://badbird5907.xyz/octocord) - A public multi-purpose utility bot (music, fun etc...)
+ - OctoSpigot - Custom spigot with improvements
+ - OctoBungee - Custom bungeecord forked from [PaperMC/Waterfall](https://github.com/PaperMC/Waterfall)
+ - OctoCore - Completely custom Rank, Permissions, Chat, Punishment core
+ - ZeroTolerance - An anticheat
