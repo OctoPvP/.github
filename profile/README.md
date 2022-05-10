@@ -15,4 +15,4 @@ Founded on Feburary 2, 2021 we've been working nonstop to bring our dreams into 
  - OctoBungee - Custom bungeecord forked from [PaperMC/Waterfall](https://github.com/PaperMC/Waterfall) with patches from [FlameCord](https://github.com/2lstudios-mc/FlameCord)
  - OctoCore - Completely custom Rank, Permissions, Chat, Punishment core
  - ZeroTolerance - An anticheat
- - Commander - A [drink](https://github.com/jonahseguin/drink/) fork to suit our needs
+ - [Commander](https://github.com/OctoPvP/Commander) - A command parsing library
