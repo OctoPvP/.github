@@ -1,4 +1,4 @@
-# Hi there 👋! We're OctoPvP
+# Hi there 👋! We're OctoDev
 
 ## Who are we?
 We develop minecraft server software in Java. <br>
@@ -16,3 +16,10 @@ Founded on Feburary 2, 2021 we've been working nonstop to bring our dreams into 
  - OctoCore - Completely custom Rank, Permissions, Chat, Punishment core
  - ZeroTolerance - An anticheat
  - [Commander](https://github.com/OctoPvP/Commander) - A command parsing library
+
+## Our Servers
+### OctoPvP
+1.8 based pvp network
+
+### AetheriaMC
+1.13+ (1.18) RPG Network
