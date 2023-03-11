@@ -5,10 +5,8 @@ We develop minecraft server software in Java. <br>
 Founded on Feburary 2, 2021 we've been working nonstop to bring our dreams into reality!
 
 ## Our Team
- - [Badbird-5907](https://github.com/Badbird-5907) - Founder, Owner, Lead Developer
+ - [Badbird5907](https://github.com/Badbird5907) - Founder, Owner, Lead Developer
  - [archer18sm](https://twitter.com/archer18sm) - Founder, Owner
- - [ethan](https://ethanng.dev/) - some guy
- - [Zenith-jpg](https://github.com/Zenith-jpg) - Developer
 
 ## Our current projects
  - [OctoCord](https://badbird5907.xyz/octocord) - A public multi-purpose utility bot (music, fun etc...)
