@@ -9,12 +9,10 @@ Founded on Feburary 2, 2021 we've been working nonstop to bring our dreams into 
  - [archer18sm](https://twitter.com/archer18sm) - Founder, Owner
 
 ## Our current projects
- - [OctoCord](https://badbird5907.xyz/octocord) - A public multi-purpose utility bot (music, fun etc...)
- - OctoSpigot - Custom spigot with improvements
- - OctoBungee - Custom bungeecord forked from [PaperMC/Waterfall](https://github.com/PaperMC/Waterfall) with patches from [FlameCord](https://github.com/2lstudios-mc/FlameCord)
- - OctoCore - Completely custom Rank, Permissions, Chat, Punishment core
- - ZeroTolerance - An anticheat
  - [Commander](https://github.com/OctoPvP/Commander) - A command parsing library
+ - [TeamsPlus](https://github.com/OctoPvP/TeamsPlus) - Teams plugin, like factions
+ - OctoCore - Completely custom Rank, Permissions, Chat, Punishment core
+ - OctoSpigot - Paper fork with various gameplay / API changes
 
 ## Our Servers
 ### OctoMC (AetheriaMC)
