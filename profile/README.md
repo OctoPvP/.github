@@ -17,8 +17,5 @@ Founded on Feburary 2, 2021 we've been working nonstop to bring our dreams into 
  - [Commander](https://github.com/OctoPvP/Commander) - A command parsing library
 
 ## Our Servers
-### OctoPvP
-1.8 based pvp network
-
-### AetheriaMC
-1.13+ (1.18) RPG Network
+### OctoMC (AetheriaMC)
+1.20 survival MMORPG SMP
